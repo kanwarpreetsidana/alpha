@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/alpha/static/css/main.2deb4546.chunk.css",
+    "main.js": "/alpha/static/js/main.2730cdb8.chunk.js",
+    "main.js.map": "/alpha/static/js/main.2730cdb8.chunk.js.map",
+    "runtime-main.js": "/alpha/static/js/runtime-main.dfe83194.js",
+    "runtime-main.js.map": "/alpha/static/js/runtime-main.dfe83194.js.map",
+    "static/js/2.e7d81991.chunk.js": "/alpha/static/js/2.e7d81991.chunk.js",
+    "static/js/2.e7d81991.chunk.js.map": "/alpha/static/js/2.e7d81991.chunk.js.map",
+    "static/css/3.ea6b7726.chunk.css": "/alpha/static/css/3.ea6b7726.chunk.css",
+    "static/js/3.be8616b0.chunk.js": "/alpha/static/js/3.be8616b0.chunk.js",
+    "static/js/3.be8616b0.chunk.js.map": "/alpha/static/js/3.be8616b0.chunk.js.map",
+    "static/js/4.ed6e4598.chunk.js": "/alpha/static/js/4.ed6e4598.chunk.js",
+    "static/js/4.ed6e4598.chunk.js.map": "/alpha/static/js/4.ed6e4598.chunk.js.map",
+    "static/js/5.1afa70ba.chunk.js": "/alpha/static/js/5.1afa70ba.chunk.js",
+    "static/js/5.1afa70ba.chunk.js.map": "/alpha/static/js/5.1afa70ba.chunk.js.map",
+    "index.html": "/alpha/index.html",
+    "precache-manifest.07cf01eabd6049f7cc7be0743569b213.js": "/alpha/precache-manifest.07cf01eabd6049f7cc7be0743569b213.js",
+    "service-worker.js": "/alpha/service-worker.js",
+    "static/css/3.ea6b7726.chunk.css.map": "/alpha/static/css/3.ea6b7726.chunk.css.map",
+    "static/css/main.2deb4546.chunk.css.map": "/alpha/static/css/main.2deb4546.chunk.css.map",
+    "static/js/3.be8616b0.chunk.js.LICENSE.txt": "/alpha/static/js/3.be8616b0.chunk.js.LICENSE.txt",
+    "static/js/4.ed6e4598.chunk.js.LICENSE.txt": "/alpha/static/js/4.ed6e4598.chunk.js.LICENSE.txt",
+    "static/js/5.1afa70ba.chunk.js.LICENSE.txt": "/alpha/static/js/5.1afa70ba.chunk.js.LICENSE.txt",
+    "static/media/abt_img.jpg": "/alpha/static/media/abt_img.0f8a486e.jpg",
+    "static/media/digital_mark.jpg": "/alpha/static/media/digital_mark.14b230eb.jpg",
+    "static/media/h1.jpeg": "/alpha/static/media/h1.caf5e75b.jpeg",
+    "static/media/img1.png": "/alpha/static/media/img1.88a9971a.png",
+    "static/media/marketing.jpg": "/alpha/static/media/marketing.b119dc3d.jpg",
+    "static/media/mobile_app.png": "/alpha/static/media/mobile_app.3b299231.png",
+    "static/media/software.png": "/alpha/static/media/software.7ebcce46.png",
+    "static/media/softwaredevelopment.png": "/alpha/static/media/softwaredevelopment.9e37b5ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe83194.js",
+    "static/css/3.ea6b7726.chunk.css",
+    "static/js/3.be8616b0.chunk.js",
+    "static/css/main.2deb4546.chunk.css",
+    "static/js/main.2730cdb8.chunk.js"
+  ]
+}
